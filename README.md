@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
 
-<img src="https://th.bing.com/th/id/R.8048ea49154589439445e1e891f45e3c?rik=mkiB1thFhtaqNg&pid=ImgRaw&r=0" width="200"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://fr.linkedin.com/in/fahd-abida-637016207">
