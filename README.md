@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://o.remove.bg/downloads/a34b6822-02d1-4cc2-a2e4-60d2320269d4/4f14471879197bbb912fddfe3daec025-removebg-preview.png" width="400"/>
+  <img src="https://o.remove.bg/downloads/16d60bc3-45da-4de6-a67b-aba1ca6dc758/ccdb9ba414390b0048f7ce0b3feb8644-removebg-preview.png" width="400"/>
 
 </p>
 
@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">The best puzzles are not meant to be solved!</h2> </b>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="https://o.remove.bg/downloads/2c77a3c1-adf6-477b-a4c1-637b187f754f/f894619374ffcffdbe9127fa3ba334b2-removebg-preview.png" width="200"/>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://fr.linkedin.com/in/fahd-abida-637016207">
