@@ -1,12 +1,12 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://fahdabida.com/">Eddie</a></b>.
-    <br>I'm a Pentester from France.<br>
+      -o-Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://fahdabida.com/">Eddie</a>-o-</b>
+    <br><br>
 
 </samp>
 
-  <img src="https://o.remove.bg/downloads/5d5e3e9b-f0f7-4012-83bb-6e8c297134eb/f634e722dcf640c17fd56688824ed0ea-removebg-preview.png" width="300"/>
+  <img src="https://o.remove.bg/downloads/a34b6822-02d1-4cc2-a2e4-60d2320269d4/4f14471879197bbb912fddfe3daec025-removebg-preview.png" width="400"/>
 
 </p>
 
