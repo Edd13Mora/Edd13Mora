@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://o.remove.bg/downloads/16d60bc3-45da-4de6-a67b-aba1ca6dc758/ccdb9ba414390b0048f7ce0b3feb8644-removebg-preview.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/Edd13Mora/Edd13Mora/main/48d2897441ea222622c0c94212b437b6-removebg-preview.png" width="400"/>
 
 </p>
 
