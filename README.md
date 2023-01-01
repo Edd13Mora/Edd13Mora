@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">The best puzzles are not meant to be solved!</h2> </b>
 
-<img src="https://o.remove.bg/downloads/2c77a3c1-adf6-477b-a4c1-637b187f754f/f894619374ffcffdbe9127fa3ba334b2-removebg-preview.png" width="200"/>
+<img src="https://raw.githubusercontent.com/Edd13Mora/Edd13Mora/main/7f30b80df3b0312e265865fc6b6a416e-removebg-preview.png" width="200"/>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://fr.linkedin.com/in/fahd-abida-637016207">
