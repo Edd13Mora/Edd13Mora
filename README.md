@@ -1,13 +1,30 @@
 <p align="center">
   <br>
   <samp>
-      -o-Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://fahdabida.com/">Eddie</a>-o-</b>
-    <br><br>
+     
+                                 ,-._,-._             
+                              _,-\  o O_/;            
+                             / ,  `     `|            
+                             | \-.,___,  /   `        
+                              \ `-.__/  /    ,.\      
+                             / `-.__.-\`   ./   \'
+                            / /|    ___\ ,/      `\
+                           ( ( |.-"`   '/\         \  `
+                            \ \/      ,,  |          \ _
+                             \|     o/o   /           \.
+                              \        , /             /
+                              ( __`;-;'__`)            \\
+                              `//'`   `||`              `\
+                             _//       ||           ███████ ███████  ██████ ██    ██ ██████  ██ ████████ ██    ██ 
+                     .-"-._,(__)     .(__).-""-.    ██      ██      ██      ██    ██ ██   ██ ██    ██     ██  ██  
+                     /          \    /           \  ███████ █████   ██      ██    ██ ██████  ██    ██      ████   
+                     \          /    \           /       ██ ██      ██      ██    ██ ██   ██ ██    ██       ██    
+                      `'-------`      `--------'`   ███████ ███████  ██████  ██████  ██   ██ ██    ██       ██                              
+                        
+ <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://fahdabida.com/"></a></b>
+    
 
 </samp>
-
-  <img src="https://raw.githubusercontent.com/Edd13Mora/Edd13Mora/main/48d2897441ea222622c0c94212b437b6-removebg-preview.png" width="400"/>
-
 </p>
 
 
