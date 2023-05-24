@@ -45,8 +45,6 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
- <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.facebook.com/z3rod4y/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
 
