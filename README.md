@@ -20,7 +20,7 @@
                      /          \    /           \  ███████ █████   ██      ██    ██ ██████  ██    ██      ████   
                      \          /    \           /       ██ ██      ██      ██    ██ ██   ██ ██    ██       ██    
                       `'-------`      `--------'`   ███████ ███████  ██████  ██████  ██   ██ ██    ██       ██                              
-                        
+                      
  <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://fahdabida.com/"></a></b>
     
 
@@ -32,7 +32,7 @@
 
 <summary> <b> <samp> Hack The Planet </samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">The best puzzles are not meant to be solved!</h2> </b>
+ <b><h2 style="color: #fc6203">Everyone together, now and forever!</h2> </b>
 
 <img src="https://raw.githubusercontent.com/Edd13Mora/Edd13Mora/main/7f30b80df3b0312e265865fc6b6a416e-removebg-preview.png" width="200"/>
 
